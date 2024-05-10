@@ -2,7 +2,7 @@
 ## [香港交通模擬工作室 Hong Kong Transport Simulation Studio](https://hktss.github.io)
 
 #### 一間製作不同模擬遊戲作品的工作室，希望能帶給大家真實又高質的模擬體驗。
-#####  A studio that creates various simulatior products, aiming to deliver a realistic and high-quality simulation experience to everyone.
+##### A studio that makes different products for various transit simulation software/games, aiming to deliver a realistic and high-quality simulation experience to everyone.
 
 ### Our GitHub Projects
 - [MTR Railway Vision PIDS Simulator](https://github.com/HKTSS/mtr-pids) 
